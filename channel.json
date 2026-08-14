@@ -1,44 +1,76 @@
 {
-  "name": "KTL REPORT",
-  "outro_tag": "BROWNS NEWS EVERY DAY",
+  "name": "RAIDERS TUNNEL",
+  "outro_tag": "RAIDERS NEWS EVERY DAY",
   "editorial": "news",
-  "clip_offset": 53,
-
-  "team": "Cleveland Browns",
-  "nickname": "Browns",
+  "clip_offset": 71,
+  "team": "Las Vegas Raiders",
+  "nickname": "Raiders",
   "league": "NFL",
   "sport": "football",
-  "venue": "Huntington Bank Field",
-  "sources": "ESPN, NFL.com, Cleveland.com, Dawgs By Nature, Pro Football Talk, The Athletic, Browns Digest",
-  "hashtags": "#Browns #NFL #ClevelandBrowns #DawgPound",
+  "venue": "Allegiant Stadium",
+  "sources": "ESPN, NFL.com, Raiders.com, Silver and Black Pride, Pro Football Talk, The Athletic, Las Vegas Review-Journal",
+  "hashtags": "#Raiders #NFL #LasVegasRaiders #RaiderNation",
   "roster": [
-    "Shedeur Sanders", "Deshaun Watson", "Dillon Gabriel",
-    "Quinshon Judkins", "Jerome Ford",
-    "Jerry Jeudy", "Cedric Tillman", "KC Concepcion", "Denzel Boston",
-    "Harold Fannin Jr.", "David Njoku",
-    "Elgton Jenkins", "Tytus Howard", "Zion Johnson", "Teven Jenkins",
-    "Spencer Fano", "Wyatt Teller", "Dawand Jones",
-    "Jared Verse", "Mason Graham", "Dalvin Tomlinson", "Mike Hall Jr.",
-    "Denzel Ward", "Martin Emerson", "Grant Delpit",
-    "Emmanuel McNeil-Warren", "Carson Schwesinger",
-    "Todd Monken", "Andrew Berry", "Jimmy Haslam"
+    "Kirk Cousins",
+    "Ashton Jeanty",
+    "Brock Bowers",
+    "Tre Tucker",
+    "Jakobi Meyers",
+    "Jalen Nailor",
+    "Jack Bech",
+    "Michael Mayer",
+    "Kolton Miller",
+    "Tyler Linderbaum",
+    "Jackson Powers-Johnson",
+    "Spencer Burford",
+    "DJ Glaze",
+    "Maxx Crosby",
+    "Kwity Paye",
+    "Tonka Hemingway",
+    "Adam Butler",
+    "Jonah Laulu",
+    "Nakobe Dean",
+    "Devin White",
+    "Eric Stokes",
+    "Darien Porter",
+    "Jeremy Chinn",
+    "Isaiah Pola-Mao",
+    "Klint Kubiak",
+    "Andrew Janocko",
+    "Rob Leonard",
+    "John Spytek",
+    "Tom Brady",
+    "Mark Davis"
   ],
-
   "tts_engine": "eleven",
-  "eleven_voice_id": "S9UjcNYIwfBOtZiDnIQT",
-
   "palette": {
-    "primary": [255, 60, 0],
-    "secondary": [49, 29, 0],
-    "ink": [16, 10, 4]
+    "primary": [
+      198,
+      204,
+      209
+    ],
+    "secondary": [
+      104,
+      112,
+      120
+    ],
+    "ink": [
+      10,
+      10,
+      11
+    ]
   },
-
   "hook_cut": 2.8,
   "body_cut": 3.4,
   "photo_zoom": 0.08,
-  "overlay_kinds": ["speech", "lower3", "comic", "chat"],
+  "overlay_kinds": [
+    "speech",
+    "lower3",
+    "comic",
+    "chat"
+  ],
   "overlay_every_sec": 25,
   "bounce": true,
-
-  "thumb_engine": "none"
+  "thumb_engine": "none",
+  "eleven_voice_id": "S9UjcNYIwfBOtZiDnIQT"
 }
